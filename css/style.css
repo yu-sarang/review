@@ -151,19 +151,19 @@ body {
 }
 .banenr_txt{
     display: inline-block;
-    padding-top: 28px;
+    padding-top: 37px;
     color: #fff;
 }
 .banenr_txt h1{
     font-family: 'Godo', sans-serif;
     font-size: 50px;
     font-weight: 400;
-    padding-bottom: 20px;
+    padding-bottom: 21px;
 }
 .banenr_txt p{
     font-family:'NanumSquareNeo-Variable';
     font-weight: 400;
-    font-size: 20px;
+    font-size: 17px;
 }
 
 /*conteiner*/
