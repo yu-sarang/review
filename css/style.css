@@ -314,6 +314,9 @@ input{
     font-family: 'Noto Sans KR', sans-serif;
 }
 
+.footer_txt a{
+    color: #fff
+}
 .footer_logo {
     position: absolute;
     top: 50px;
